@@ -12,9 +12,9 @@ namespace ConsoleApp1
 
         public int add()
         {
-            int i = 1;
-            int j = 2;
-            int sum = i + j;
+            var i = 1;
+            var j = 2;
+            var sum = i + j;
             return sum;
         }
     }
